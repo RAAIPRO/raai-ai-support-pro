@@ -88,7 +88,7 @@
 |---|---|---|
 | **Коробка** | SKILL.md + config + docs. Ставишь сам за 15 мин | **30 000 ₽** |
 | **Агент под ключ** | Коробка + Telegram-бот + Bitrix24/amoCRM + настройка | **30-80К руб** |
-| **Приложение** | support.raaipro.com — свой домен + UI + БД + полная интеграция | **100-250К руб** |
+| **Приложение** | custom support portal on client-owned domain + UI + DB + full integration | **100-250К руб** |
 
 ---
 
@@ -96,4 +96,4 @@
 
 **RAAI** — автоматизация управления бизнесом через AI
 - Telegram: @NATA_RA_AI
-- Командный центр: https://cc.raaipro.com
+- Командный центр: [internal command center removed]
