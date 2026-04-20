@@ -1,35 +1,38 @@
-# AI-Поддержка PRO v3.5
+# RAAI AI-Support PRO v3.5.1
 
-**Цифровой отдел поддержки клиентов на AI. Заменяет оператора 1-й линии на 60-80%.**
+**Customer support operations skill for Russian-speaking teams.**
+Use it to classify tickets, track SLA, route L1 → L2 → L3, and standardize replies before support chaos damages revenue.
 
----
+## Use when
+- the company handles 100+ tickets per month;
+- SLA matters, but slips are still common;
+- angry clients, escalations, and queue overload are managed manually.
 
-## Быстрый старт — установка за 15 минут
+## What you get
+- ticket categorization and priority logic;
+- SLA tracking with escalation rules;
+- standard reply workflow for support teams;
+- reporting on delays, overload, and support quality;
+- 5 proof cases with ruble-denominated business impact.
+
+**Price:** 30 000 ₽  
+**Market:** Russian-speaking e-commerce / SaaS / service teams  
+**Setup time:** ~15 minutes
+
+## Quick Start
 
 ```bash
-# 1. Установить
 bash install.sh
-
-# 2. Заполнить обязательные поля в config.yaml
-# (company.name, support_team.team_lead, escalation.l2_manager.telegram)
-
-# 3. Проверить установку
 bash test/smoke-test.sh
-
-# 4. Первый триггер
-# "настрой поддержку для [название компании]"
-# "обработай обращение: [текст клиента]"
-# "SLA отчёт"
 ```
 
-**Все режимы:** `examples/quick-start.md`
-**Полная настройка:** `docs/onboarding.md`
+Then open `config.yaml`, fill the required fields, and run one of the first triggers:
+- `set up support for [company]`
+- `process this support request: [text]`
+- `SLA report`
 
----
-
-Не FAQ-бот и не набор шаблонов. AI-Поддержка PRO — это готовая система клиентской поддержки для бизнеса, у которого уже есть поток обращений, риск просрочек по SLA и перегруз команды на однотипных или конфликтных тикетах.
-
-**Цена: 30 000 руб.**
+Setup guide: `examples/quick-start.md`  
+Full onboarding: `docs/onboarding.md`
 
 ---
 
