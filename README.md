@@ -4,24 +4,29 @@
 
 # RAAI AI-Support PRO v3.5.1
 
-**Customer support operations skill for Russian-speaking teams.**
-Use it to classify tickets, track SLA, route L1 → L2 → L3, and standardize replies before support chaos damages revenue.
+**Stop losing revenue on support chaos and SLA slips.**
+Customer support operations skill for Russian-speaking teams: classify tickets, track SLA, route L1 → L2 → L3, and standardize replies before queue overload damages retention.
 
 ## Use when
 - the company handles 100+ tickets per month;
 - SLA matters, but slips are still common;
 - angry clients, escalations, and queue overload are managed manually.
 
-## What you get
-- ticket categorization and priority logic;
-- SLA tracking with escalation rules;
-- standard reply workflow for support teams;
-- reporting on delays, overload, and support quality;
-- 5 proof cases with ruble-denominated business impact.
+## Business result
+- reduce routine load on first-line operators;
+- catch SLA risk before it becomes a complaint;
+- route angry clients and escalations faster;
+- use 5 proof cases with ruble-denominated business impact.
+
+## Before → After
+- **Before:** support queue chaos, late escalations, inconsistent replies.
+- **After:** categorized queue, SLA visibility, standard replies, clear escalation flow.
+- **Payback:** typically **7–10 days** from saved operator time and reduced churn risk.
 
 **Price:** 30 000 ₽  
 **Market:** Russian-speaking e-commerce / SaaS / service teams  
 **Setup time:** ~15 minutes
+**CTA:** Install yourself or hire RAAI to deploy it for your business.
 
 ## Quick Start
 
