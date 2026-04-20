@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover.svg" alt="cover" width="100%" />
+</p>
+
 # RAAI AI-Support PRO v3.5.1
 
 **Customer support operations skill for Russian-speaking teams.**
